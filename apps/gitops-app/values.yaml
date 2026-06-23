@@ -1,6 +1,6 @@
 image:
   repository: 700800570325.dkr.ecr.ap-south-1.amazonaws.com/dev-gitops-app
-  tag: 5ed7060e39975a16b7541d5a11cb9aa7d8d88467
+  tag: 73b575122cf1ef4821c8081fb2780e6248aa454d
   pullPolicy: Always
 replicaCount: 1
 service:
